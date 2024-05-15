@@ -10,6 +10,8 @@ Cyber Security Analyst
 My journey in computer technology and support has led me to develop a passion for cybersecurity, and I am now focused in data protection.
 I believe that we can always learn and grow, both professionally and personally. My interests range from distributed systems, digital forensics incident response(DFIR), data security, AI, and I'm always eager to explore new technological horizons.
 
+A visionary at heart, I see possibilities where others see obstacles. Motivation fuels my every step, pushing me to explore, learn, and create. My sensitivity allows me to connect deeply with others, while my proactive mindset ensures actively shapes reality. My superpower lies in turning curiosity into action, transforming ideas into tangible results. With a heart full of empathy and a mind brimming with ideas, I continues to make a positive impact wherever I go.
+
 
 ## Project Overview
 
